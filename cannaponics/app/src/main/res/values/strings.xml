@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cannaponics</string>
+
+    <string name="stage">Choose a country</string>
+
+    <string-array name="stage_arrays">
+        <item>Vegetative</item>
+        <item>Flowering</item>
+        <item>Budding</item>
+    </string-array>
+</resources>
